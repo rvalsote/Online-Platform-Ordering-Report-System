@@ -1,0 +1,5 @@
+{
+  "name": "Online Platform Ordering Report System",
+  "description": "An intelligent OCR solution that transforms document images into structured Waybill, Aggregate, and Invoicing reports using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
